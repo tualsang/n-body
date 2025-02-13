@@ -1,0 +1,8 @@
+Simulation with dt=200 and 5,000,000 steps
+Simulation Time: 9.66773seconds.
+Simulation with 100 particles with dt=1 and 10,000 steps
+Simulation Time: 2.10765seconds.
+Simulation with 1000 particles with dt=1 and 10,000 steps
+Simulation Time: 210.121seconds.
+/var/spool/slurm/slurmd/job07113/slurm_script: line 15: syntax error near unexpected token `done'
+/var/spool/slurm/slurmd/job07113/slurm_script: line 15: `done'
